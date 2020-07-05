@@ -1,0 +1,36 @@
+body{
+	
+      font-size: 16px;
+   color: #fff;
+  background-color: #ccccff;
+    }
+header{
+	background-color: #9900cc
+}
+
+h1{
+	color:  #ffffff
+}
+.heading2{
+	
+	color: #1a1a1a;
+	font-family: serif;
+	padding-top: 10px;
+}
+.paragraph{
+	text-align: center;
+background-color:  #cc66ff
+}
+
+.navbar-header button.navbar-toggle, .navbarheader .icon-bar{
+	border: 1px solid #000000;
+	align-content: right;
+	
+}
+
+@media(min-width:768px){
+	.navbar-toggle{
+		display:none;
+	}
+
+}
